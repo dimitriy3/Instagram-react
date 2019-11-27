@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## At first
 
+In order to start this project you need to write it in the terminal:
+
 ### `npm install`
 
 
